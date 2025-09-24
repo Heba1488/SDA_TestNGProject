@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="Mutiple Classes">
+        <classes>
+            <class name="tests.SDA_Class.C06_Description"></class>
+            <class name="tests.SDA_Class.C07_Groups"></class>
+        </classes>
+    </test>
+</suite>
